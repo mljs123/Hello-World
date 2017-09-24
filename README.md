@@ -1,8 +1,7 @@
 # Hello-World
-/*Exersise_01*/
 
-public class Exse_01{
-     public void main(String[] args){
-     System.out.prinln("Hello World");
-     }
+pulic class Test_01{
+	public static void main(String[] args){
+		System.out.println("HelloWorld");
+		}
 }
